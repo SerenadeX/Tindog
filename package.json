@@ -11,8 +11,12 @@
     "url": "https://github.com/SerenadeX/tindog.git"
   },
   "dependencies": {
+    "CSSwhat": "^0.4.5",
+    "cheerio": "^0.13.1",
     "clark": "0.0.6",
+    "domutils": "^1.4.0",
     "express": "^3.4.8",
+    "htmlparser2": "^3.7.0",
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-flowdock": "^0.6.1",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",

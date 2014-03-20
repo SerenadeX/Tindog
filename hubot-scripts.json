@@ -1,6 +1,7 @@
 [
   "redis-brain.coffee",
   "shipit.coffee",
+  "bitcoin.coffee",
   "isup.coffee",
   "karma.coffee",
   "xkcd.coffee",
