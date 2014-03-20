@@ -1,1 +1,1 @@
-web: bin/hubot --name tindog
+web: coffee app.coffee
