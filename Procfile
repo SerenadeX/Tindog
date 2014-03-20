@@ -1,1 +1,1 @@
-web: coffee app.coffee
+web: bin/hubot -a flowdock -n tindog
