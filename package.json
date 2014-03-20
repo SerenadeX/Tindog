@@ -4,17 +4,19 @@
   "private": true,
   "description": "My hubot",
   "scripts": {
-    "start":"bin/hubot -a flowdock -n tindog"
+    "start": "bin/hubot -a flowdock -n tindog"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/SerenadeX/tindog.git"
   },
   "dependencies": {
+    "clark": "0.0.6",
     "express": "^3.4.8",
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-flowdock": "^0.6.1",
-    "hubot-scripts": ">= 2.5.0 < 3.0.0"
+    "hubot-scripts": ">= 2.5.0 < 3.0.0",
+    "underscore": "^1.6.0"
   },
   "engines": {
     "node": ">= 0.8.x",
