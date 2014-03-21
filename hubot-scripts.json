@@ -4,6 +4,7 @@
   "bitcoin.coffee",
   "isup.coffee",
   "karma.coffee",
+  "remember.coffee",
   "xkcd.coffee",
   "weather.coffee"
 ]
